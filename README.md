@@ -37,7 +37,7 @@
 
 * ` ratcj7 login > Cambiar user:pass `
 * ` ratcj7 start > Iniciar servidor `
-* ` ratcj7 stop  > Detener servidor `
+* ` ratcj7 stop   > Detener servidor `
 
 ## Características :
 
