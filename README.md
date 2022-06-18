@@ -22,14 +22,14 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220525-173950_Termux](https://user-images.githubusercontent.com/81049859/170373228-da0e88c6-e7ed-48fe-b095-28a7c9c1977c.png)
+![Screenshot_20220618-165432_Termux](https://user-images.githubusercontent.com/81049859/174457351-fb28b1ef-d73e-492e-8524-785dc292400d.png)
 
-## On Listening :
-![Screenshot_20220525-122205_Termux](https://user-images.githubusercontent.com/81049859/170312295-fa8d674d-8789-4094-ac8f-e3496d297212.png)
+## Acceso Remoto al dispositivo :
+![Screenshot_20220618-170423_Chrome](https://user-images.githubusercontent.com/81049859/174457409-90e26f4c-39bb-4bfa-b5e4-27c3290831e8.png)
 
-|Server Hack|Server Hack|
-|----------|----------|
-|![Screenshot_20220413-201413_Chrome](https://user-images.githubusercontent.com/81049859/163291012-ceb0f48c-549e-4bed-bdc5-ffa0d1588d2a.png)|![Screenshot_20220413-201443_Chrome](https://user-images.githubusercontent.com/81049859/163291034-95a798b5-542e-4ad2-9212-32cfa4eafabd.png)|
+|Login|Build|Panel|
+|-----|-----|-----|
+|![Screenshot_20220618-170544_Chrome](https://user-images.githubusercontent.com/81049859/174457399-8a0eb9d4-4d86-4594-b43b-7c6eda7ecd39.png)|![Screenshot_20220618-165916_Chrome](https://user-images.githubusercontent.com/81049859/174457395-ecfac5fe-0e38-4eef-9600-2f097d324d13.png)|![Screenshot_20220618-170207_Chrome](https://user-images.githubusercontent.com/81049859/174457403-d8ee86fc-84af-43e6-93b9-996331d0f142.png)|
 
 ## ServerHackCj7 :
 * La víctima debe ejecutar **sólo una vez el script** y obtendrás acceso a su dispositivo mediante un **servidor HTTPS** redirigido por conexiones TCP.
