@@ -35,9 +35,9 @@
 
 ## Uso:
 
-* ` devilratcj7 login   Cambiar user:pass `
-* ` devilratcj7 start   Iniciar servidor `
-* ` devilratcj7 stop    Detener servidor `
+* ` ratcj7 login > Cambiar user:pass `
+* ` ratcj7 start > Iniciar servidor `
+* ` ratcj7 stop  > Detener servidor `
 
 ## Características :
 
@@ -83,7 +83,7 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `chmod +x *`
 
-* `./DevilRatCj7`
+* `ratcj7 start`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
