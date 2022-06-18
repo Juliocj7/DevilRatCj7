@@ -27,7 +27,7 @@
 ## Acceso Remoto :
 ![Screenshot_20220618-170423_Chrome](https://user-images.githubusercontent.com/81049859/174457409-90e26f4c-39bb-4bfa-b5e4-27c3290831e8.png)
 
-> ` User: juliocj7  && Pass: simplythebest `
+> ` User:juliocj7  Pass:simplythebest `
 
 |Login|Build|Panel|
 |-----|-----|-----|
