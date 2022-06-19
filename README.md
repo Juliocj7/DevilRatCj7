@@ -60,7 +60,7 @@
 
 ## DevilRatCj7 :
 * 3 readaptaciones **mejoradas, actualizadas y 100% funcionales** de L3mon Remote Access Troyan al entorno de Termux.
-* Obtén acceso y **control total a uno o a varios dispositivos** mediante un Troyano de Acceso Remoto.
+* Obtén acceso y **control total a uno o a varios dispositivos**, ya sea dentro o fuera de tu red local, mediante un Troyano de Acceso Remoto.
 * **Generador automático de backdoor** para android que construye, firma, alinea y verifica para hacerla una aplicación indetectable.
 * Sólo el acceso al registro de mensajes, llamadas, contactos, archivos, notificaciones, etc da TODO UN MUNDO de posibilidades... así que a disfrutar!!!
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
