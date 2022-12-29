@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220618-165432_Termux](https://user-images.githubusercontent.com/81049859/174457351-fb28b1ef-d73e-492e-8524-785dc292400d.png)
+![Screenshot_20221229-082946_Termux](https://user-images.githubusercontent.com/81049859/209953195-6a54373d-887e-45db-b0a9-05f9b1b7fbbc.png)
 
 ## Acceso Remoto :
 ![Screenshot_20220618-170423_Chrome](https://user-images.githubusercontent.com/81049859/174457409-90e26f4c-39bb-4bfa-b5e4-27c3290831e8.png)
