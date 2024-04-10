@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221229-082946_Termux](https://user-images.githubusercontent.com/81049859/209953195-6a54373d-887e-45db-b0a9-05f9b1b7fbbc.png)
+![1000328561](https://github.com/Juliocj7/DevilRatCj7/assets/81049859/1aa98dde-997f-4048-92bc-c1dc10ac9248)
 
 ## Acceso Remoto :
 ![Screenshot_20220618-170423_Chrome](https://user-images.githubusercontent.com/81049859/174457409-90e26f4c-39bb-4bfa-b5e4-27c3290831e8.png)
@@ -35,10 +35,18 @@
 |![Screenshot_20220618-170544_Chrome](https://user-images.githubusercontent.com/81049859/174457399-8a0eb9d4-4d86-4594-b43b-7c6eda7ecd39.png)|![Screenshot_20220618-165916_Chrome](https://user-images.githubusercontent.com/81049859/174457395-ecfac5fe-0e38-4eef-9600-2f097d324d13.png)|![Screenshot_20220618-170207_Chrome](https://user-images.githubusercontent.com/81049859/174457403-d8ee86fc-84af-43e6-93b9-996331d0f142.png)|
 
 ## Uso:
-
-* ` ratcj7 login > Cambiar user:pass `
-* ` ratcj7 start > Iniciar servidor `
-* ` ratcj7 stop   > Detener servidor `
+* Cambiar user:pass
+~~~
+ratcj7 login
+~~~
+* Iniciar servidor
+~~~
+ratcj7 start
+~~~
+* Detener servidor
+~~~
+ratcj7 stop
+~~~
 
 ## Características :
 
