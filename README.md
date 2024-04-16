@@ -61,7 +61,13 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de DevilRa
 ## Acceso Remoto :
 ![Screenshot_20220618-170423_Chrome](https://user-images.githubusercontent.com/81049859/174457409-90e26f4c-39bb-4bfa-b5e4-27c3290831e8.png)
 
-> ` User:juliocj7  Pass:simplythebest `
+<div align="center">
+
+  > User: ` juliocj7 `
+  > 
+  > Pass: ` simplythebest `
+
+</div>
 
 |Login|Build|Panel|
 |-----|-----|-----|
@@ -69,17 +75,17 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de DevilRa
 
 ## Uso:
 * Cambiar user:pass
-~~~
+```shell
 ratcj7 login
-~~~
+```
 * Iniciar servidor
-~~~
+```shell
 ratcj7 start
-~~~
+```
 * Detener servidor
-~~~
+```shell
 ratcj7 stop
-~~~
+```
 
 ## Características :
 * [x] Registro de GPS (geolocalización)
@@ -111,17 +117,18 @@ ratcj7 stop
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/DevilRatCj7`
-
-* `cd DevilRatCj7`
-
-* `chmod +x *`
-
-* `ratcj7 start`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/DevilRatCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd DevilRatCj7 && chmod +x * && ./DevilRatCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
