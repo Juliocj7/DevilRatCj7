@@ -74,22 +74,25 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de DevilRa
 |![Screenshot_20220618-170544_Chrome](https://user-images.githubusercontent.com/81049859/174457399-8a0eb9d4-4d86-4594-b43b-7c6eda7ecd39.png)|![Screenshot_20220618-165916_Chrome](https://user-images.githubusercontent.com/81049859/174457395-ecfac5fe-0e38-4eef-9600-2f097d324d13.png)|![Screenshot_20220618-170207_Chrome](https://user-images.githubusercontent.com/81049859/174457403-d8ee86fc-84af-43e6-93b9-996331d0f142.png)|
 
 ## Uso:
-
-> [!TIP]
-> > Luego de la instalación podremos llamar a la herramienta desde cualquier directorio con el comando: ` ratcj7 `
-
 * Cambiar user:pass
 ```shell
-ratcj7 login
+<RATNAME> login
 ```
 * Iniciar servidor
 ```shell
-ratcj7 start
+<RATNAME> start
 ```
 * Detener servidor
 ```shell
-ratcj7 stop
+<RATNAME> stop
 ```
+* Compilar aplicación
+```shell
+<RATNAME> build
+```
+
+> Opciones en \<RATNAME> :
+> > De acuerdo a la instalación puede ser `lemon` `haxrat` o `bloodyrat`
 
 ## Características :
 * [x] Registro de GPS (geolocalización)
