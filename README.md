@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000328561](https://github.com/Juliocj7/DevilRatCj7/assets/81049859/1aa98dde-997f-4048-92bc-c1dc10ac9248)
+[![1000328561](https://github.com/user-attachments/assets/88f1d5a4-208f-472f-9e48-b3e5f56c1292)](#---)
 
 <div align="justify">
   <details align="center">
@@ -68,26 +68,26 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de DevilRa
 
 </div>
 
-|Login|Build|Panel|
+|𝙻𝚘𝚐𝚒𝚗|𝙱𝚞𝚒𝚕𝚍|𝙿𝚊𝚗𝚎𝚕|
 |-----|-----|-----|
 |![Screenshot_20220618-170544_Chrome](https://user-images.githubusercontent.com/81049859/174457399-8a0eb9d4-4d86-4594-b43b-7c6eda7ecd39.png)|![Screenshot_20220618-165916_Chrome](https://user-images.githubusercontent.com/81049859/174457395-ecfac5fe-0e38-4eef-9600-2f097d324d13.png)|![Screenshot_20220618-170207_Chrome](https://user-images.githubusercontent.com/81049859/174457403-d8ee86fc-84af-43e6-93b9-996331d0f142.png)|
 
 ## Uso:
 * 𝙲𝚊𝚖𝚋𝚒𝚊𝚛 𝚞𝚜𝚎𝚛:𝚙𝚊𝚜𝚜
 ```shell
-<RATNAME> login
+<𝚁𝙰𝚃𝙽𝙰𝙼𝙴> login
 ```
 * 𝙸𝚗𝚒𝚌𝚒𝚊𝚛 𝚜𝚎𝚛𝚟𝚒𝚍𝚘𝚛
 ```shell
-<RATNAME> start
+<𝚁𝙰𝚃𝙽𝙰𝙼𝙴> start
 ```
 * 𝙳𝚎𝚝𝚎𝚗𝚎𝚛 𝚜𝚎𝚛𝚟𝚒𝚍𝚘𝚛
 ```shell
-<RATNAME> stop
+<𝚁𝙰𝚃𝙽𝙰𝙼𝙴> stop
 ```
 * 𝙲𝚘𝚖𝚙𝚒𝚕𝚊𝚛 𝚊𝚙𝚕𝚒𝚌𝚊𝚌𝚒ó𝚗
 ```shell
-<RATNAME> build
+<𝚁𝙰𝚃𝙽𝙰𝙼𝙴> build
 ```
 
 * 𝙾𝚙𝚌𝚒𝚘𝚗𝚎𝚜 𝚙𝚊𝚛𝚊 \<𝚁𝙰𝚃𝙽𝙰𝙼𝙴>
