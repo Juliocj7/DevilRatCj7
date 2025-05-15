@@ -57,8 +57,9 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de DevilRa
   </details>
 </div>
 
-## Acceso Remoto :
-![Screenshot_20220618-170423_Chrome](https://user-images.githubusercontent.com/81049859/174457409-90e26f4c-39bb-4bfa-b5e4-27c3290831e8.png)
+|𝚛𝚎𝚖𝚘𝚝𝚎 𝚊𝚌𝚌𝚎𝚜𝚜|
+|:-----------:|
+|![Screenshot_20220618-170423_Chrome](https://user-images.githubusercontent.com/81049859/174457409-90e26f4c-39bb-4bfa-b5e4-27c3290831e8.png)|
 
 <div align="center">
 
@@ -68,7 +69,7 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de DevilRa
 
 </div>
 
-|𝙻𝚘𝚐𝚒𝚗|𝙱𝚞𝚒𝚕𝚍|𝙿𝚊𝚗𝚎𝚕|
+|𝚕𝚘𝚐𝚒𝚗|𝚋𝚞𝚒𝚕𝚍|𝚙𝚊𝚗𝚎𝚕|
 |-----|-----|-----|
 |![Screenshot_20220618-170544_Chrome](https://user-images.githubusercontent.com/81049859/174457399-8a0eb9d4-4d86-4594-b43b-7c6eda7ecd39.png)|![Screenshot_20220618-165916_Chrome](https://user-images.githubusercontent.com/81049859/174457395-ecfac5fe-0e38-4eef-9600-2f097d324d13.png)|![Screenshot_20220618-170207_Chrome](https://user-images.githubusercontent.com/81049859/174457403-d8ee86fc-84af-43e6-93b9-996331d0f142.png)|
 
